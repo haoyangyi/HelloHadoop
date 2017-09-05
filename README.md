@@ -1,0 +1,2 @@
+HelloHadoop是我以前自学hadoop的一些demo，里面有很多常见的hadoop的mr程序，
+还有很多mr代码是自己上网整理收集的，希望可以帮助新手哈
